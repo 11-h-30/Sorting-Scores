@@ -1,0 +1,3 @@
+Los nombres de los alumnos se pueden repetir, pues se entiende que en una clase puedan coincidir más de un alumno con el mismo nombre, sin embargo si coinciden tanto el nombre como el apellido íntegro o si se ingresa una nota fuera del rango de calificaciones propias de España (de 1 a 10), se considerará un error.
+
+Ingresa la palabra "Salir" para terminar el programa cuando hayas ingresado todos los datos.
