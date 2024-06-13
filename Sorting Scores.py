@@ -3,7 +3,7 @@ print("----------------------------------------------------")
 print("---- Bienvenido al Registro de Notas de Alumnos ----")
 print("----------------------------------------------------")
 
-# Creamos un diccionario vacío donde albergaremos tanto los nombre como las notas
+# Creamos un diccionario vacío donde albergaremos todos los datos de los alumnos
 grupo = {}
 
 # Iniciamos un bucle While indefinido
@@ -20,7 +20,7 @@ while True:
         grupo[alumno] = nota
     # De lo contrario, se imprime un mensaje informando del error
     else:
-        print("*** Nombre Repetido o Nota Fuera De Rango ***")
+        print("*** Alumno Repetido o Nota Fuera De Rango ***")
         continue
 
 # Imprimimos un mensaje mostrando la lista completa de alumnos con sus respectivas notas
