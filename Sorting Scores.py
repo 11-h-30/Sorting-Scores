@@ -46,7 +46,7 @@ for nota in grupo.values():
     sumador += nota
     contador += 1
 
-# Imprimos por pantalla los resultados finales. Tanto la nota mínima, como la nota
+# Imprimimos por pantalla los resultados finales. Tanto la nota mínima, como la nota
 # máxima y por último también la nota media de toda la clase, que se consigue dividiendo
 # el resultado de la suma de todas las notas por el número de notas que hay
 print("-> La mayor nota de la clase es: ", nota_min)
